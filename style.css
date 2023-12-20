@@ -116,6 +116,9 @@ body{
       text-align: center;
       
     }
+    .img-principal{
+        width:300px
+    }
 
     .img-principal{
         display: none;
