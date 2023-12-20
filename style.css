@@ -15,7 +15,7 @@ img{
 
 /* HEADER */
 
-.header{
+body{
     background-color: #F8F8FF;
 }
 .img-principal{
@@ -115,6 +115,10 @@ img{
       grid-template-columns: 1fr;
       text-align: center;
       
+    }
+
+    .img-principal{
+        display: none;
     }
 
     .conteudo-1 h1{
