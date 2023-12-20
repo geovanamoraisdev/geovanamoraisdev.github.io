@@ -9,6 +9,10 @@ span {
   margin: 0;
 }
 
+img{
+    max-width: 100%;
+}
+
 /* HEADER */
 
 .header{
@@ -49,7 +53,7 @@ span {
     text-transform: uppercase;
     border: none;
     border-radius: 4px;
-    padding: 5px 40px;
+    padding: 14px 32px;
 }
 
 /* HEADER MEDIA QUERY */
@@ -126,3 +130,10 @@ span {
         padding: 20px 60px;
     }
   }
+
+  /* section */
+
+.conteudo-2{
+    border: 1px solid #EAEAEA;
+    border-radius: 4px;
+}
