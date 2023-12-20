@@ -149,6 +149,10 @@ img{
 
 
 @media (max-width: 790px){
+    h2{
+        text-align: center;
+
+    }
     .row-p{
         display: grid;
         grid-template-columns: 1fr;
