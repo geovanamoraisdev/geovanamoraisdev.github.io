@@ -134,6 +134,30 @@ img{
   /* section */
 
 .conteudo-2{
+    padding: 30px;
     border: 1px solid #EAEAEA;
     border-radius: 4px;
+    text-align: center;
+}
+
+.conteudo-2 h3{
+    font-size: 18px;
+}
+
+
+  /* section media*/
+
+
+@media (max-width: 790px){
+    .row-p{
+        display: grid;
+        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .col-p{
+        width: 380px;
+        height: auto;
+    }
 }
