@@ -108,7 +108,6 @@ body{
         padding: 20px 60px;
     }
   }
-
   @media (max-width: 450px) {
     .alinhamento {
       display: grid;
